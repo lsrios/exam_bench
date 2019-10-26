@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "301526717426",
+    "firebase_url": "https://exam-bench.firebaseio.com",
+    "project_id": "exam-bench",
+    "storage_bucket": "exam-bench.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301526717426:android:dd695813dcfb5e5cb9d16b",
+        "android_client_info": {
+          "package_name": "dev.lsrios.exam_bench"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301526717426-93tivibpthn4e2si4fru6mos1rc9qq25.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.lsrios.exam_bench",
+            "certificate_hash": "d322817f9d945b993b78b55c81810dbe21a52fff"
+          }
+        },
+        {
+          "client_id": "301526717426-if5gvivpe6mhfa9en7m09mes117or088.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDojDyT-fTGkJ6EhQY3AKCtEQFDED9xm0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301526717426-if5gvivpe6mhfa9en7m09mes117or088.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">
+        ExamBench
+    </string>
+    <string name="facebook_app_id">
+        643298086195066
+    </string>
+    <string name="fb_login_protocol_scheme">
+        fb643298086195066
+    </string>
+</resources>
